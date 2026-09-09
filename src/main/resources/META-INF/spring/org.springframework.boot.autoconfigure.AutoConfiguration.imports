@@ -1,0 +1,8 @@
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibJacksonAutoConfiguration
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibEncryptionAutoConfiguration
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibCoreAutoConfiguration
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibRedisAutoConfiguration
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibCacheAutoConfiguration
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibCookieAutoConfiguration
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibWebAutoConfiguration
+com.pal.dipesh.razorpay.common.autoconfigure.CommonLibJpaAuditingAutoConfiguration
